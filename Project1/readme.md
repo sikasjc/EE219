@@ -9,9 +9,10 @@ Winter 2018
 - [x] Problem C
 - [x] Problem D
 - [x] Problem E
-- [ ] Problem F
-- [ ] Problem G
-- [ ] Problem H
-- [ ] Problem I
+- [x] Problem F
+- [x] Problem G
+- [x] Problem H
+- [x] Problem I
+- [x] Multiclass Classification
 
 PS: There may be problems in the code. If you find, please tell me. 
