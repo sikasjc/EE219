@@ -14,5 +14,3 @@ Winter 2018
 - [x] Problem H
 - [x] Problem I
 - [x] Multiclass Classification
-
-PS: There may be problems in the code. If you find, please tell me. 
