@@ -4,6 +4,10 @@
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
 
+### PDF ###
+.pdf
+*/.pdf
+
 # Remove previous ipynb_checkpoints
 #   git rm -r .ipynb_checkpoints/
 #
